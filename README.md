@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year B.E. ECE Student at **Sri Sairam Institute of Technology**
+- 🎓 final Year B.E. ECE Student at **Sri Sairam Institute of Technology**
 - 🔭 Interested in **IoT, Machine Learning, Web Development, and Embedded Systems**
 - 🛠️ Worked on **Agricultural Rover for Wheat Disease Detection** and various IoT projects
 - 📚 Passionate about solving coding problems and exploring new technologies
