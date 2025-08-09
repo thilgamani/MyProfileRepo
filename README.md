@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thilagamani S  
 
-💻 **Electronics and Communication Engineering Student** | 🚀 **Tech Enthusiast** | 🌱 **Learning and Building Projects**  
+💻 **Electronics and Communication Engineering Student** | 🚀 **Tech Enthusiast** | 🌱 **Learning DSA and Building Projects**  
 
 ---
 
@@ -39,9 +39,7 @@ Visual Studio Code • MATLAB • Figma • Thonny
 ---
 
 ## 📫 Let's Connect
-📧 **Email:** *[Your Email Here]*  
-🌍 **Portfolio:** *[If you have one, link it here]*  
-
+📧 **Email:** *thilagamani561@gnail.com*  
 ---
 
 ⭐ *“Code, Create, Contribute.”*
