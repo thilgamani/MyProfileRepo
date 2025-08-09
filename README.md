@@ -41,5 +41,3 @@ Visual Studio Code • MATLAB • Figma • Thonny
 ## 📫 Let's Connect
 📧 **Email:** *thilagamani561@gmail.com*  
 ---
-
-⭐ *“Code, Create, Contribute.”*
