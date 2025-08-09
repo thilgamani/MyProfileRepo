@@ -34,12 +34,12 @@ Visual Studio Code • MATLAB • Figma • Thonny
 ## 📌 Featured Projects
 
 - **[Agricultural Rover for Wheat Disease Detection](#)** – IoT-based rover integrated with ML for real-time crop health monitoring.
-- **[IoT Projects in Wokwi](#)** – Animal detection, temperature monitoring, water dispenser automation, and more.
+- **[IoT Projects in Wokwi](#)** – Animal detection, temperature monitoring, water dispenser automation.
 
 ---
 
 ## 📫 Let's Connect
-📧 **Email:** *thilagamani561@gnail.com*  
+📧 **Email:** *thilagamani561@gmail.com*  
 ---
 
 ⭐ *“Code, Create, Contribute.”*
